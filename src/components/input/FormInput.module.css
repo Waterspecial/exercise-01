@@ -14,9 +14,7 @@
     line-height: 1.5rem;
     padding: 0 0.25rem;
 }
-.form-control nested {
-    margin-bottom: 0.5rem;
-}
+
 .form-control input:focus {
     outline: none;
     background: #fad0ec;
